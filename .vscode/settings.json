@@ -1,4 +1,0 @@
-{
-    "liveServer.settings.CustomBrowser": "chrome",
-    "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome --incognito --remote-debugging-port=9222"
-}
